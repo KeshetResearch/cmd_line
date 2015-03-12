@@ -20,7 +20,7 @@ We can check what arguments we recieved:
   }
 ```
   
-Then, the value entered by the user will then be stored in i
+Then, the value entered by the user will then be stored in `i`
 ```
    std::cout << "i=" << i << std::endl;
 ```
